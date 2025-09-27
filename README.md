@@ -1,0 +1,1 @@
+# SKE-money-splitting-program
